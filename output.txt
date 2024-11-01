@@ -1,0 +1,201 @@
+    script1 = '0aldq425aqfx.pkl'
+    script2 = '0bcjh622cuft.pkl'
+    script3 = '0bgcx961jhbr.pkl'
+    script4 = '0biyy383zjrf.pkl'
+    script5 = '0cejc223ozui.pkl'
+    script6 = '0luhf571iuwu.pkl'
+    script7 = '0lwjx512ilrc.pkl'
+    script8 = '0meui045ucmv.pkl'
+    script9 = '0pdly427qqyu.pkl'
+    script10 = '0pslj272jlpf.pkl'
+    script11 = '0pwcp216puki.pkl'
+    script12 = '0qlnu207arii.pkl'
+    script13 = '0uswk072yang.pkl'
+    script14 = '0yxhs495fqpx.pkl'
+    script15 = '1jfbd715wpxz.pkl'
+    script16 = '1jjyk070dsvn.pkl'
+    script17 = '1rvkv774nerr.pkl'
+    script18 = '1tofk855bfvk.pkl'
+    script19 = '1tygm886kiar.pkl'
+    script20 = '1uksi135yeex.pkl'
+    script21 = '2eqvp176xexz.pkl'
+    script22 = '2halz101vtnq.pkl'
+    script23 = '2ubtw347yffr.pkl'
+    script24 = '2unwo100tehz.pkl'
+    script25 = '2yyvs897qrfq.pkl'
+    script26 = '2zpfr431kelt.pkl'
+    script27 = '3anze133sbof.pkl'
+    script28 = '3aqyk729xfub.pkl'
+    script29 = '3dbdo816modq.pkl'
+    script30 = '3eajh358tosu.pkl'
+    script31 = '3ontg018lvph.pkl'
+    script32 = '3tjdy009wzmv.pkl'
+    script33 = '4edae071snnb.pkl'
+    script34 = '4ffsa427ycxe.pkl'
+    script35 = '4jtez107vnrx.pkl'
+    script36 = '4knrb128hioy.pkl'
+    script37 = '4kqlx753cjiq.pkl'
+    script38 = '4mqta532ehjk.pkl'
+    script39 = '4nnyi939oolb.pkl'
+    script40 = '4rcoz527gyfl.pkl'
+    script41 = '4tjfr798cksc.pkl'
+    script42 = '4tlqx651hgdd.pkl'
+    script43 = '4ydzp996qjqb.pkl'
+    script44 = '5ccyz599vqen.pkl'
+    script45 = '5cnxm590irmm.pkl'
+    script46 = '5dmlc864ynwz.pkl'
+    script47 = '5dtym980duiq.pkl'
+    script48 = '5ezsb715wezd.pkl'
+    script49 = '5fabi884plfy.pkl'
+    script50 = '5jfoi112cyon.pkl'
+    script51 = '5qjsk491dswy.pkl'
+    script52 = '5qzlt537nnfq.pkl'
+    script53 = '5tpei046mlqa.pkl'
+    script54 = '5vqjx004ucue.pkl'
+    script55 = '5vwbs220kghr.pkl'
+    script56 = '5whia775thtj.pkl'
+    script57 = '5zymb304zkef.pkl'
+    script58 = '6bwrn672xdzl.pkl'
+    script59 = '6cxvu418hcmg.pkl'
+    script60 = '6cyhn714zwlk.pkl'
+    script61 = '6evyj050jlee.pkl'
+    script62 = '6fxok187ebvx.pkl'
+    script63 = '6gixi097elrs.pkl'
+    script64 = '6iszf016tqol.pkl'
+    script65 = '6kcsz487klor.pkl'
+    script66 = '6pteo236txmi.pkl'
+    script67 = '6scsn908cbvt.pkl'
+    script68 = '6siyb791uroo.pkl'
+    script69 = '6vxhs915obec.pkl'
+    script70 = '6wtnp232hgfd.pkl'
+    script71 = '6xbbt783nyoc.pkl'
+    script72 = '7bndn768lqev.pkl'
+    script73 = '7cslc724etza.pkl'
+    script74 = '7cxsm677xjuw.pkl'
+    script75 = '7gpig844dkke.pkl'
+    script76 = '7hbdv792qdkd.pkl'
+    script77 = '7oxys133lsoi.pkl'
+    script78 = '7ptwu200tqsg.pkl'
+    script79 = '7qrve280nqgd.pkl'
+    script80 = '7rajm343uqug.pkl'
+    script81 = '7snas658gzqc.pkl'
+    script82 = '7tgav339ywqt.pkl'
+    script83 = '7tkvw867xtrw.pkl'
+    script84 = '7wqlb645lxgk.pkl'
+    script85 = '7wsfa958wudi.pkl'
+    script86 = '7zdzb590imrx.pkl'
+    script87 = '8lqsb512ufca.pkl'
+    script88 = '8ofhn882wlrf.pkl'
+    script89 = '8qmyn222uzsh.pkl'
+    script90 = '8qxzt570ikmc.pkl'
+    script91 = '8uelu367wvll.pkl'
+    script92 = '8uurg958ttyp.pkl'
+    script93 = '8vdef757vzwm.pkl'
+    script94 = '9bwsp462aphn.pkl'
+    script95 = '9iujt708lvld.pkl'
+    script96 = '9osrs126ucbg.pkl'
+    script97 = '9tgqz503fgfk.pkl'
+    script98 = '9uimz297ujze.pkl'
+    script99 = '9zwsx642mmzi.pkl'
+    script100 = '9zxry054yldk.pkl'
+
+    run_script_in_new_window(script1)
+    run_script_in_new_window(script2)
+    run_script_in_new_window(script3)
+    run_script_in_new_window(script4)
+    run_script_in_new_window(script5)
+    run_script_in_new_window(script6)
+    run_script_in_new_window(script7)
+    run_script_in_new_window(script8)
+    run_script_in_new_window(script9)
+    run_script_in_new_window(script10)
+    run_script_in_new_window(script11)
+    run_script_in_new_window(script12)
+    run_script_in_new_window(script13)
+    run_script_in_new_window(script14)
+    run_script_in_new_window(script15)
+    run_script_in_new_window(script16)
+    run_script_in_new_window(script17)
+    run_script_in_new_window(script18)
+    run_script_in_new_window(script19)
+    run_script_in_new_window(script20)
+    run_script_in_new_window(script21)
+    run_script_in_new_window(script22)
+    run_script_in_new_window(script23)
+    run_script_in_new_window(script24)
+    run_script_in_new_window(script25)
+    run_script_in_new_window(script26)
+    run_script_in_new_window(script27)
+    run_script_in_new_window(script28)
+    run_script_in_new_window(script29)
+    run_script_in_new_window(script30)
+    run_script_in_new_window(script31)
+    run_script_in_new_window(script32)
+    run_script_in_new_window(script33)
+    run_script_in_new_window(script34)
+    run_script_in_new_window(script35)
+    run_script_in_new_window(script36)
+    run_script_in_new_window(script37)
+    run_script_in_new_window(script38)
+    run_script_in_new_window(script39)
+    run_script_in_new_window(script40)
+    run_script_in_new_window(script41)
+    run_script_in_new_window(script42)
+    run_script_in_new_window(script43)
+    run_script_in_new_window(script44)
+    run_script_in_new_window(script45)
+    run_script_in_new_window(script46)
+    run_script_in_new_window(script47)
+    run_script_in_new_window(script48)
+    run_script_in_new_window(script49)
+    run_script_in_new_window(script50)
+    run_script_in_new_window(script51)
+    run_script_in_new_window(script52)
+    run_script_in_new_window(script53)
+    run_script_in_new_window(script54)
+    run_script_in_new_window(script55)
+    run_script_in_new_window(script56)
+    run_script_in_new_window(script57)
+    run_script_in_new_window(script58)
+    run_script_in_new_window(script59)
+    run_script_in_new_window(script60)
+    run_script_in_new_window(script61)
+    run_script_in_new_window(script62)
+    run_script_in_new_window(script63)
+    run_script_in_new_window(script64)
+    run_script_in_new_window(script65)
+    run_script_in_new_window(script66)
+    run_script_in_new_window(script67)
+    run_script_in_new_window(script68)
+    run_script_in_new_window(script69)
+    run_script_in_new_window(script70)
+    run_script_in_new_window(script71)
+    run_script_in_new_window(script72)
+    run_script_in_new_window(script73)
+    run_script_in_new_window(script74)
+    run_script_in_new_window(script75)
+    run_script_in_new_window(script76)
+    run_script_in_new_window(script77)
+    run_script_in_new_window(script78)
+    run_script_in_new_window(script79)
+    run_script_in_new_window(script80)
+    run_script_in_new_window(script81)
+    run_script_in_new_window(script82)
+    run_script_in_new_window(script83)
+    run_script_in_new_window(script84)
+    run_script_in_new_window(script85)
+    run_script_in_new_window(script86)
+    run_script_in_new_window(script87)
+    run_script_in_new_window(script88)
+    run_script_in_new_window(script89)
+    run_script_in_new_window(script90)
+    run_script_in_new_window(script91)
+    run_script_in_new_window(script92)
+    run_script_in_new_window(script93)
+    run_script_in_new_window(script94)
+    run_script_in_new_window(script95)
+    run_script_in_new_window(script96)
+    run_script_in_new_window(script97)
+    run_script_in_new_window(script98)
+    run_script_in_new_window(script99)
+    run_script_in_new_window(script100)
